@@ -1,0 +1,36 @@
+nav {
+    margin:0;
+    display: flex;
+    align-items: center;
+    background-color: #333;
+  }
+  
+  nav ul {
+
+    list-style: none;
+    margin-right: 0px ;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  nav a:hover {
+    color: #999;
+  }
+  
+.company-logo{
+    width: 100px;
+} 
+
+footer{
+    margin-bottom: 0;
+}
